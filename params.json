@@ -1,0 +1,6 @@
+{
+  "name": "CiTwig",
+  "tagline": "CodeIgniter + Twig",
+  "body": "# citwig\r\nCodeIgniter + Twig\r\n\r\n# about\r\nThis is a custom CodeIgniter version with already integrated Twig template engine.\r\n\r\n# credits\r\nBig thanks to **kenjis** for Twig port\r\n**See here** https://github.com/kenjis/codeigniter-ss-twig\r\n\r\n# versions\r\n* CodeIgniter **3.1.2** \r\n* Twig **1.27.0**\r\n* *kenjis* twig library **0.2.1**\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
